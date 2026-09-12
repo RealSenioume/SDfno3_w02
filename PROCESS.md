@@ -7,3 +7,6 @@
 
 # Emotional expression often cannot be stopped. I originally planned to write it in several parts and complete it gradually over a few days, but unexpectedly, I finished the entire structure in one go. With the help of AI for organization and polishing, the entire article was produced. However, he remains the same, not liking to indicate some of the content he quoted, or some content that is too "obvious" but not quite accurate.
 -03 2026 09 12
+
+# I just realized that AI still loving to use this "—", a longer version of "-". I'll fix that, or I mean I already did.
+-04 2026 09 12
